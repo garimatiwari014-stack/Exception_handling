@@ -7,7 +7,7 @@ class YoungerAgeException extends RuntimeException{
 
     }
 }
-class votingEligible{
+class customRuntimeException{
     public static void main(String[]args){
         int age = 16 ;
         try{
